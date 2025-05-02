@@ -1,5 +1,3 @@
-# COSC426-_Final
-
 # COSC426 Final Project - Learning from Participation: A Machine Learning Approach to Student Performance
 
 **Description**
